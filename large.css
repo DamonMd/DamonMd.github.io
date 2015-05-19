@@ -1,0 +1,45 @@
+.intro{
+  /*height: 300px;
+  width: 100%
+  background-color: red;
+
+  position: absolute;
+  top:50%;
+  bottom: 0;
+  left: 0;
+  right: 0;
+
+  margin: auto;
+  text-align: center;*/
+  /*transform: translate(-50%, -50%);*/
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  margin-left: 0px;
+  text-align: center;
+  transform: translate(-50%, -50%);
+}
+
+h1{
+  font-size: 1.3em;
+  text-align: center;
+}
+
+a{
+  padding: 20px;
+}
+
+#pic{
+  background-color:transparent;
+  opacity:0.8;
+}
+/*.pic{
+
+  background-color:transparent;
+  opacity:0.8;
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  margin-left: 0px;
+  transform: translate(-50%, -50%);
+}*/
