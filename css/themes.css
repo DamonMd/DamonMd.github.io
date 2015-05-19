@@ -18,7 +18,8 @@ body{
   font-size: 30px;
   /*color: lightgray;*/
   color: white;
-  background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url('bern2.png');
+  /*background-color: red;*/
+  background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url('images/bern.png');
   /*background-height: 100%;*/
   background-size: cover;
   /*text-align: center;*/
