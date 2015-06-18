@@ -14431,3 +14431,17 @@ img::-moz-selection {
   background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../images/black_matterhorn_by_rajdziu-d5861cq.jpg') no-repeat scroll center center;
 
 }
+
+#about{
+  background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url('../assets/images/gray_lake_geneva_switzerland_water_trees_nature_hd-wallpaper-1870444.jpg') no-repeat scroll center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+#profile-pic{
+  /*height: 300px;
+  width: 300px;*/
+  border-radius: 50%;
+}
